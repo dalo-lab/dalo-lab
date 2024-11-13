@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @dalo-lab
 - 👀 I’m interested in enhancing the work I do 
-- 🌱 I’m currently learning python and AI
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 🌱 I’m currently finding time to get back to my programming roots and start learning python and AI
 - 😄 Pronouns: He
-- ⚡ Fun fact: no fun
+- ⚡ Fun fact: Honey never spoils
 
 <!---
 dalo-lab/dalo-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
